@@ -1,0 +1,25 @@
+{
+  "name": "introductiontotypescriptforfutureprofessionals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krpk1900/IntroductionToTypeScriptForFutureProfessionals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krpk1900/IntroductionToTypeScriptForFutureProfessionals/issues"
+  },
+  "homepage": "https://github.com/krpk1900/IntroductionToTypeScriptForFutureProfessionals#readme",
+  "devDependencies": {
+    "@types/node": "^20.1.0",
+    "typescript": "^5.0.4"
+  }
+}
